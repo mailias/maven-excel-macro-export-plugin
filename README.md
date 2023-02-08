@@ -2,7 +2,9 @@
 
 # Maven Plugin for extracting VBA scripts from an Excel file
 
-Bsp: Excel file my_excel.xlsm:
+Please note that this is just an example plugin not meant to be used in production as-is. It supports only one file. And it lacks good error handling. 
+
+Example: Excel file my_excel.xlsm:
 
 ```text
 |
@@ -57,3 +59,6 @@ mvn install
                     DieseArbeitsmappe.vba
                     Tabelle1.vba
 ```
+
+
+Demo can be found unter https://github.com/mailias/vba-macro-export-maven-plugin-demo.
