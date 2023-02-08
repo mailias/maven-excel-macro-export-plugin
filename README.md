@@ -59,3 +59,6 @@ mvn install
                     DieseArbeitsmappe.vba
                     Tabelle1.vba
 ```
+
+
+Demo can be found unter https://github.com/mailias/vba-macro-export-maven-plugin-demo.
