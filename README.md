@@ -2,7 +2,7 @@
 
 # Maven Plugin for extracting VBA scripts from an Excel file
 
-Please note that this is just an example plugin not meant to be used in production as-is. It supports only one file. And it lacks good error handling. However it can simply be adjusted to your needs. 
+Please note that this is just an example plugin not meant to be used in production as-is. It supports only one file. And it lacks good error handling. 
 
 Example: Excel file my_excel.xlsm:
 
