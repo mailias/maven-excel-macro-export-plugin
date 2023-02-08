@@ -18,13 +18,12 @@ Usage:
 ```xml
 
     <build>
-
         <plugins>
-
+            ...
             <plugin>
-                <groupId>de.example.excel</groupId>
-                <artifactId>macro-extractor-maven-plugin</artifactId>
-                <version>1.0-SNAPSHOT</version>
+                <groupId>de.example</groupId>
+                <artifactId>vba-macro-export-maven-plugin</artifactId>
+                <version>1.0</version>
                 <executions>
                     <execution>
                         <configuration>
@@ -38,8 +37,8 @@ Usage:
                 </executions>
             </plugin>
         </plugins>
-
     </build>
+    ...
 ```
 
 ```text
