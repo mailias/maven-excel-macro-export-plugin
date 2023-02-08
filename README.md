@@ -2,7 +2,9 @@
 
 # Maven Plugin for extracting VBA scripts from an Excel file
 
-Bsp: Excel file my_excel.xlsm:
+Please note that this is just an example plugin not meant to be used in production as-is. 
+
+Example: Excel file my_excel.xlsm:
 
 ```text
 |
